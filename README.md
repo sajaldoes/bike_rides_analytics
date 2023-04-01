@@ -20,9 +20,16 @@ Data manipulation process completed with Pandas.
 ## Data Analytics
 The data anlytics and visualization completed using Tableau. The moving average rides visualizatioon, wind speed and temperature heatmap is presented in the visualization where weather and hour of time visualized in tooltip.
 
-![](viz.png)  
-Full visualization
+<p align="center">
+<img src="viz.png">
+<b>Full visualization<b>
+</p>
 
-![](tooltip.png)  
-Tooltip
+<p align="center">
+<img src="tooltip.png"><br>
+<b>Tooltip visualization<b>
+</p>
+
+
+
 
